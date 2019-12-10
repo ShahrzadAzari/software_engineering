@@ -4,5 +4,5 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-* [The International Student's Guide](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
-* [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf)
+* [What does a software engineer do?](https://www.careerexplorer.com/careers/software-engineer/)
+* [software engineering concept](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-355j-software-engineering-concepts-fall-2005/lecture-notes/)
