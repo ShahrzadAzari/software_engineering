@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: Some Course Title
-course_description: Course description.
+course_name: Software Engineering
+course_description: Software engineering is a detailed study of engineering to the design, development and maintenance of software.
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr.ashtiani
@@ -14,9 +14,9 @@ githubdir:
 
 # Author/user information
 email: m_ashtiani_AT@iust.ac.ir
-twitter_username: broken_twitter 
+#twitter_username: broken_twitter 
 #github_username:  broken_github
-google_scholar: dsdZaDAAAAAJ&hl=en
+google_scholar_id: dsdZaDAAAAAJ&hl=en
 authorurl: "http://webpages.iust.ac.ir/m_ashtiani"
 address: |
     School of Computer Engineering
