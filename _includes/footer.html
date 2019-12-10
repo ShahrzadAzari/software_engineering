@@ -10,7 +10,7 @@
           <li><strong>{{ site.title }}</strong></li>
 			<li>{{ site.jobtitle }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li>{{ site.number }}</li>
+          <li>"number:" {{ site.number }}</li>
         </ul>
       </div>
 
@@ -40,7 +40,7 @@
           {% if site.google_scholar_id %}
   <li>
     <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
-      <i class="ai ai-google-scholar" style="color:gray"></i> {{ site.google_scholar_id | remove: "dsdZaDAAAAAJ&hl=en"}}
+      <i class="ai ai-google-scholar" style="color:gray"></i> {{ site.google_scholar_id }}
     </a>
   </li>
 {% endif %}
