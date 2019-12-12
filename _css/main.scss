@@ -14,25 +14,25 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: rgb(229, 248, 247);
-$brand-color:      #0077CC;
+$background-color: #f7fcfb;
+$brand-color:      rgb(184, 48, 172);
 // $gameday-sky: #109dc0;
-$clemson-purple:      #336699;
+$clemson-purple:      #ccc926;
 $clemson-orange:      #3c9af3;
 $clemson-green:  #38a9ddc0;
-$clemson-red:  #3264c0;
+$clemson-red:  #c03232;
 
 
 $grey-color:       #5e5e5f;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-light: lighten($grey-color, 60%);
+$grey-color-dark:  darken($grey-color, 40%);
 
 
 // Width of the content area
 $content-width:    1050px;
 
-$on-palm:          700px;
-$on-laptop:        1050px;
+$on-palm:          650px;
+$on-laptop:        1000px;
 
 
 
