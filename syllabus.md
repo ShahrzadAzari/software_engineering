@@ -36,8 +36,8 @@ permalink: /syllabus/
 <h1>Assessment</h1>
 <p>
 <big>
--homeworks  : 10%<br>
--projects : 30%<br>
--exams : 60%<br>
+- homeworks  : 10%<br>
+- projects : 30%<br>
+- exams : 60%<br>
 </big>
 </p>
