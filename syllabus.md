@@ -13,7 +13,7 @@ permalink: /syllabus/
 <p></p>
 <h2>Assessment</h2>
 <p>
-**homeworks** : 10%
-projects : 30%
-exams : 60%
+<h3>homeworks</h3> : 10%
+<h3>projects</h3> : 30%
+<h3>exams</h3> : 60%
 </p>
