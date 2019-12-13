@@ -6,14 +6,16 @@ permalink: /syllabus/
 
 <h2>Learning outcomes</h2>
 <p>
+<big>
 1. Applying engineering techniques to create high-quality product<br>
 2. Following the well-known software engineering processes<br>
 3. Application of software architecture design methods<br>
 4. Software testing in various levels<br>
+</big>
 </p>
 
 <h2>Content</h2>
-<p>
+##<p>
 1. Introduction to Software Engineering<br>
 2. Software Development Processes and Models - Repeat-based development<br>
 3. Software Analysis Overview<br>
