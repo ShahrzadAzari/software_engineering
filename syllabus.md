@@ -15,7 +15,7 @@ permalink: /syllabus/
 </big>
 </p>
 
-##<h2>Content</h2>
+<h2>Content</h2>
 <p>
 <big>
 1. Introduction to Software Engineering<br>
@@ -36,8 +36,8 @@ permalink: /syllabus/
 <h2>Assessment</h2>
 <p>
 <big>
-homeworks  : 10%<br>
-projects : 30%<br>
-exams : 60%<br>
+-homeworks  : 10%<br>
+-projects : 30%<br>
+-exams : 60%<br>
 </big>
 </p>
