@@ -11,7 +11,7 @@ permalink: /syllabus/
 2. Following the well-known software engineering processes<br>
 3. Application of software architecture design methods<br>
 4. Software testing in various levels<br>
-<br></br>
+<br>
 </big>
 </p>
 
@@ -29,7 +29,7 @@ permalink: /syllabus/
 9. Project Management - Human Resources Management - Risk Management<br>
 10. Life Cycle Management - Change Management - Configuration Management<br>
 11. Agile Methods<br>
-<br></br>
+<br>
 </big>
 </p>
 
