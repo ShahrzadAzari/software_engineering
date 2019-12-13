@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<h2>##Learning outcomes</h2>
+<h2>Learning outcomes</h2>
 <p>
 <big>
 1. Applying engineering techniques to create high-quality product<br>
@@ -15,7 +15,7 @@ permalink: /syllabus/
 </big>
 </p>
 
-<h2>Content</h2>
+##<h2>Content</h2>
 <p>
 <big>
 1. Introduction to Software Engineering<br>
