@@ -4,7 +4,7 @@ course_name: Software Engineering
 course_description: Software engineering is a detailed study of engineering to the design, development and maintenance of software.
 course_semester: "Fall 2019"
 description: |
-    Instructor: * [Dr.ashtiani](http://webpages.iust.ac.ir/m_ashtiani/)
+    Instructor: Dr.ashtiani
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/software_engineering" # the subpath of your site, e.g. /blog/
