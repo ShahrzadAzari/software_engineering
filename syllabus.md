@@ -36,12 +36,11 @@ permalink: /syllabus/
 <h1>Assessment</h1>
 <p>
 <big>
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 table {
-  width:100%;
+  width:30%;
 }
 table, th, td {
   border: 1px solid black;
@@ -55,7 +54,7 @@ table#t01 tr:nth-child(even) {
   background-color: #eee;
 }
 table#t01 tr:nth-child(odd) {
- background-color: #fff;
+ background-color: #eee;
 }
 table#t01 th {
   background-color: black;
@@ -65,27 +64,23 @@ table#t01 th {
 </head>
 <body>
 
-<h2>Assessment</h2>
-
 <table id="t01">
   <tr>
     <td>homeworks</td>
-    <td>projects</td>
-    <td>exams</td>
+    <td>10%</td>
   </tr>
   <tr>
-    <td>10%</td>
+    <td>projects</td>
     <td>30%</td>
+  </tr>
+    <tr>
+    <td>exams</td>
     <td>60%</td>
   </tr>
 </table>
 
 </body>
 </html>
-
-- homeworks  : 10%<br>
-- projects : 30%<br>
-- exams : 60%<br>
 
 </big>
 </p>
