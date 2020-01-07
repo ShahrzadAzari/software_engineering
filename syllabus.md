@@ -37,29 +37,7 @@ permalink: /syllabus/
 <p>
 <big>
 
-<style>
-table#t02 {
-  width:30%;
-}
-table#t02, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  padding: 15px;
-  text-align: left;
-}
-table#t02 tr:nth-child(even) {
-  background-color: #eee;
-}
-table#t02 tr:nth-child(odd) {
- background-color: #eee;
-}
-table#t02 th {
-  background-color: black;
-  color: white;
-}
-</style>
-
-<table id="t02">
+<table>
   <tr>
     <td>homeworks</td>
     <td>10%</td>
