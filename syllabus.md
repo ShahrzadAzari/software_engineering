@@ -36,8 +36,7 @@ permalink: /syllabus/
 <h1>Assessment</h1>
 <p>
 <big>
-<html>
-<head>
+
 <style>
 table#t01 {
   width:30%;
@@ -61,8 +60,6 @@ table#t01 th {
   color: white;
 }
 </style>
-</head>
-<body>
 
 <table id="t01">
   <tr>
@@ -78,9 +75,6 @@ table#t01 th {
     <td>60%</td>
   </tr>
 </table>
-
-</body>
-</html>
 
 </big>
 </p>
