@@ -38,30 +38,28 @@ permalink: /syllabus/
 <big>
 
 <style>
-table#t01 {
+table#t02 {
   width:30%;
 }
-table#t01, th, td {
+table#t02, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-}
-th, td {
   padding: 15px;
   text-align: left;
 }
-table#t01 tr:nth-child(even) {
+table#t02 tr:nth-child(even) {
   background-color: #eee;
 }
-table#t01 tr:nth-child(odd) {
+table#t02 tr:nth-child(odd) {
  background-color: #eee;
 }
-table#t01 th {
+table#t02 th {
   background-color: black;
   color: white;
 }
 </style>
 
-<table id="t01">
+<table id="t02">
   <tr>
     <td>homeworks</td>
     <td>10%</td>
