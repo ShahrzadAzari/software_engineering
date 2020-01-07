@@ -39,10 +39,10 @@ permalink: /syllabus/
 <html>
 <head>
 <style>
-table {
+table#t01 {
   width:30%;
 }
-table, th, td {
+table#t01, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
