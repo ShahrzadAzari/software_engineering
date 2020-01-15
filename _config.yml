@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Software Engineering
-course_description: Software engineering is a detailed study of engineering to the design, development and maintenance of software.
+course_description: In this course you will learn the principles behind designing a large scale software system. The main metrics considered for the design of systems in this course is flexibility toward change and maintainability. Students will be involved in developing a software system during the semester where they will learn the complexities of working in a group, performing project management practices and exercise their knowledge regarding the development of complex software systems.
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr.ashtiani
