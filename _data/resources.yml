@@ -19,14 +19,14 @@ good_resources:
   - name: ENGINEERING SOFTWARE AS A SERVICE AN AGILE APPROACH USING CLOUD COMPUTING 
     pic: /_images/resourses/SE6.png
     address: https://pdfs.semanticscholar.org/2025/ebbfe2097da9e19f552dd9fa0df6ebbe39dc.pdf
-    
+
 classic_resources:
-  - name: SE7
+  - name: Design Patterns, Elements of Reusable Object-Oriented Software
     pic: /_images/resourses/SE7.png
-    address: 
-  - name: SE8
+    address: http://www.grch.com.ar/docs/unlu.poo/Gamma-DesignPatternsIntro.pdf
+  - name: Pragmatic Programmer
     pic: /_images/resourses/SE8.png
-    address: 
-  - name: SE9
+    address: https://epdf.pub/the-pragmatic-programmer-from-journeyman-to-masterce703e58df938f8cfa46561a8ff0693668147.html
+  - name: The Mythical Man-Month
     pic: /_images/resourses/SE9.png
-    address: 
+    address: https://umich.instructure.com/files/884126/download?download_frd=1
