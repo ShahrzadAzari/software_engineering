@@ -5,7 +5,7 @@ permalink: /course-materials/
 ---
 
 <div style="width:100%; float: left">
-    <div class="profile-pic-gallary ">
+    <div class="profile-pic-gallary">
         <h2>Resources</h2>
         <h3>Main resources</h3>
         {% for resource in site.data.resources.main_resources %}
@@ -14,6 +14,7 @@ permalink: /course-materials/
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
         {% endfor %}
+        <br>
         <h3>Good resources</h3>
         {% for resource in site.data.resources.good_resources %}
         <div class="image--cover-container">
@@ -21,6 +22,7 @@ permalink: /course-materials/
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
         {% endfor %}
+        <br>
         <h3>Classic resources</h3>
         {% for resource in site.data.resources.classic_resources %}
         <div class="image--cover-container">
