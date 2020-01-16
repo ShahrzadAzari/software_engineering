@@ -21,7 +21,7 @@ permalink: /course-materials/
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
         {% endfor %}
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
         <h2>Classic resources</h2>
         {% for resource in site.data.resources.classic_resources %}
         <div class="resource--image-cover-container">
