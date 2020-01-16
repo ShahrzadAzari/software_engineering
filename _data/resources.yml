@@ -8,16 +8,18 @@ main_resources:
   - name: Software Engineering A Practitioner's Approach
     pic: /_images/resourses/SE3.png
     address: http://dinus.ac.id/repository/docs/ajar/RPL-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
+
 good_resources:
-  - name: SE4
+  - name: Code Complet by Steve McConnell
     pic: /_images/resourses/SE4.png
-    address: 
-  - name: SE5
+    address: http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf
+  - name: Software Engineering, Modern Approaches by Eric J. Braude and Michael E. Bernstein
     pic: /_images/resourses/SE5.png
-    address: 
-  - name: SE6
+    address: https://epdf.pub/software-engineering-modern-approaches.html
+  - name: ENGINEERING SOFTWARE AS A SERVICE AN AGILE APPROACH USING CLOUD COMPUTING 
     pic: /_images/resourses/SE6.png
-    address: 
+    address: https://pdfs.semanticscholar.org/2025/ebbfe2097da9e19f552dd9fa0df6ebbe39dc.pdf
+    
 classic_resources:
   - name: SE7
     pic: /_images/resourses/SE7.png
