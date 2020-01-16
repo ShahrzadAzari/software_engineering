@@ -1,7 +1,7 @@
 resources:
-  - name: SE1
+  - name: Software Engineering by Ian Sommerville
     pic: /_images/resourses/SE1.jpg
-    address: http://google.com/
+    address: http://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf
   - name: SE2
     pic: /_images/resourses/SE2.jpg
   - name: SE3
