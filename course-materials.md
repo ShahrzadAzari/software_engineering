@@ -14,7 +14,8 @@ permalink: /course-materials/
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
         {% endfor %}
-        <br></br>
+        <br><br>
+        <br><br>
         <h3>Good resources</h3>
         {% for resource in site.data.resources.good_resources %}
         <div class="resource--image-cover-container">
@@ -22,7 +23,8 @@ permalink: /course-materials/
             <p><a href="{{resource.address}}">{{resource.name}}</a></p>
         </div>
         {% endfor %}
-        <br></br>
+        <br><br>
+        <br><br>
         <h3>Classic resources</h3>
         {% for resource in site.data.resources.classic_resources %}
         <div class="resource--image-cover-container">
