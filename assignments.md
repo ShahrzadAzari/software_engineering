@@ -10,10 +10,10 @@ permalink: /assignments/
 <h2>Teams should consist of at least 4 people</h2>
 <h2>Deliverables should be provided in each sprint</h2>
 <h2>A special focus on the followings:</h2>
-<h3>Architecture</h3>
-<h3>Design decisions</h3>
-<h3>Project management reports</h3>
-<h3>Learning new things!</h3>
+<h3>*Architecture</h3>
+<h3>*Design decisions</h3>
+<h3>*Project management reports</h3>
+<h3>*Learning new things!</h3>
 </big>
 </p>
 
