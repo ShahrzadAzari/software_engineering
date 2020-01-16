@@ -1,20 +1,30 @@
-resources:
+main_resources:
   - name: Software Engineering by Ian Sommerville
     pic: /_images/resourses/SE1.png
     address: http://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf
-  - name: SE2
+  - name: Beginning Software Engineering by Rod Stephens
     pic: /_images/resourses/SE2.png
-  - name: SE3
+    address: https://download.e-bookshelf.de/download/0003/4626/55/L-G-0003462655-0006431542.pdf
+  - name: Software Engineering A Practitioner's Approach
     pic: /_images/resourses/SE3.png
+    address: http://dinus.ac.id/repository/docs/ajar/RPL-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
+good_resources:
   - name: SE4
     pic: /_images/resourses/SE4.png
+    address: 
   - name: SE5
     pic: /_images/resourses/SE5.png
+    address: 
   - name: SE6
     pic: /_images/resourses/SE6.png
+    address: 
+classic_resources:
   - name: SE7
     pic: /_images/resourses/SE7.png
+    address: 
   - name: SE8
     pic: /_images/resourses/SE8.png
+    address: 
   - name: SE9
     pic: /_images/resourses/SE9.png
+    address: 
