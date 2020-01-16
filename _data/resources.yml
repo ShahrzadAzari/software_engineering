@@ -1,0 +1,20 @@
+resources:
+  - name: SE1
+    pic: /_images/resourses/SE1.jpg
+    address: http://google.com/
+  - name: SE2
+    pic: /_images/resourses/SE2.jpg
+  - name: SE3
+    pic: /_images/resourses/SE3.jpg
+  - name: SE4
+    pic: /_images/resourses/SE4.jpg
+  - name: SE5
+    pic: /_images/resourses/SE5.jpg
+  - name: SE6
+    pic: /_images/resourses/SE6.jpg
+  - name: SE7
+    pic: /_images/resourses/SE7.jpg
+  - name: SE8
+    pic: /_images/resourses/SE8.jpg
+  - name: SE9
+    pic: /_images/resourses/SE9.jpg
