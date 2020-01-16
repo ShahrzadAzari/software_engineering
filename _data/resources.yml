@@ -1,20 +1,20 @@
 resources:
   - name: Software Engineering by Ian Sommerville
-    pic: /_images/resourses/SE1.jpg
+    pic: /_images/resourses/SE1.png
     address: http://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf
   - name: SE2
-    pic: /_images/resourses/SE2.jpg
+    pic: /_images/resourses/SE2.png
   - name: SE3
-    pic: /_images/resourses/SE3.jpg
+    pic: /_images/resourses/SE3.png
   - name: SE4
-    pic: /_images/resourses/SE4.jpg
+    pic: /_images/resourses/SE4.png
   - name: SE5
-    pic: /_images/resourses/SE5.jpg
+    pic: /_images/resourses/SE5.png
   - name: SE6
-    pic: /_images/resourses/SE6.jpg
+    pic: /_images/resourses/SE6.png
   - name: SE7
-    pic: /_images/resourses/SE7.jpg
+    pic: /_images/resourses/SE7.png
   - name: SE8
-    pic: /_images/resourses/SE8.jpg
+    pic: /_images/resourses/SE8.png
   - name: SE9
-    pic: /_images/resourses/SE9.jpg
+    pic: /_images/resourses/SE9.png
