@@ -4,7 +4,7 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-<div style="width:50%; float: left">
+<div style="width:100%; float: left">
     <div class="profile-pic-gallary ">
         <h2>Resources</h2>
         <div class="image--cover-container">
