@@ -3,6 +3,19 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
+<p>
+<big>
+<h1>A complete commercial level project done during the term with the following conditions:</h1><br>
+<h2>Scrum should be used as the project management framework</h2><br>
+<h2>Teams should consist of at least 4 people</h2><br>
+<h2>Deliverables should be provided in each sprint</h2><br>
+<h2>A special focus on the followings:</h2><br>
+<h3>Architecture</h3><br>
+<h3>Design decisions</h3><br>
+<h3>Project management reports</h3><br>
+<h3>Learning new things!</h3><br>
+</big>
+</p>
 
 <ul id="archive">
 {% for asg in site.assignments reversed %}
