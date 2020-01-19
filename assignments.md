@@ -3,15 +3,14 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
-<p>
-<big>
+
 <h1>A complete commercial level project done during the term with the following conditions:</h1>
-<ul>
+<ul style="list-style-type:disk;">
   <li>Scrum should be used as the project management framework</li>
   <li>Teams should consist of at least 4 people</li>
   <li>Deliverables should be provided in each sprint</li>
   <li>A special focus on the followings:
-    <ul>
+    <ul style="list-style-type:circle;">
       <li>Architecture</li>
       <li>Design decisions</li>
       <li>Project management reports</li>
@@ -19,8 +18,6 @@ permalink: /assignments/
     </ul>
   </li>
 </ul>
-</big>
-</p>
 
 <ul id="archive">
 {% for asg in site.assignments reversed %}

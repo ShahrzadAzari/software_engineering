@@ -6,21 +6,21 @@ permalink: /syllabus/
 <h1>Course Layout</h1>
 <ol type="1">
 <li>Continuing System Design</li>
-  <ul>
-    <li>System Design ( A not that brief recap)</li>
+  <ul style="list-style-type:disc;">
+    <li>System Design (A not that brief recap)</li>
     <li>Addressing design goals</li>
     <li>Software Architectures</li>
   </ul>
 <li>Patterns and Anti-Patterns</li>
-  <ul>
+  <ul style="list-style-type:disc;">
     <li>A detailed review of design patterns</li>
-      <ul>
+      <ul style="list-style-type:circle;">
         <li>Structural</li>
         <li>Behavioral</li>
         <li>Creational</li>
       </ul>
     <li>Anti Patterns</li>
-      <ul>
+      <ul style="list-style-type:circle;">
         <li>Development Anti patterns</li>
         <li>Architectural Anti patterns</li>
         <li>Management Anti patterns</li>
@@ -28,11 +28,11 @@ permalink: /syllabus/
       </ul>
   </ul>
 <li>Aspect Oriented Programming</li>
-  <ul>
+  <ul style="list-style-type:disc;">
     <li>Why?</li>
     <li>When?</li>
     <li>Concepts</li>
-      <ul>
+      <ul style="list-style-type:circle;">
         <li>Cross cutting</li>
         <li>Joint Points</li>
         <li>Advices</li>
@@ -40,11 +40,11 @@ permalink: /syllabus/
       </ul>
   </ul>
 <li>Service Oriented Software Engineering</li>
-  <ul>
+  <ul style="list-style-type:disc;">
     <li>Why?</li>
     <li>When?</li>
     <li>Concepts</li>
-      <ul>
+      <ul style="list-style-type:circle;">
         <li>Service</li>
         <li>Abstractions</li>
         <li>Communications</li>
@@ -52,7 +52,7 @@ permalink: /syllabus/
       </ul>
   </ul>
 <li>Agile Methodologies(No need! We have covered this part!)</li>
-  <ul>
+  <ul style="list-style-type:disc;">
     <li>Agile Manifesto</li>
     <li>Agile Framework</li>
     <li>Methodologies</li>
@@ -63,9 +63,9 @@ permalink: /syllabus/
     <li>Kanban</li>
   </ul>
 <li>Microservice Architecture(Exciting new stuffs instead!)</li>
-  <ul>
+  <ul style="list-style-type:disc;">
     <li>things microservice</li>
-      <ul>
+      <ul style="list-style-type:circle;">
         <li>Concepts</li>
         <li>Containarization</li>
         <li>Migration from Monolith to Microservices</li>
@@ -73,9 +73,9 @@ permalink: /syllabus/
       </ul>
   </ul>
 <li>Software Testing </li>
-  <ul>
+  <ul style="list-style-type:disc;">
       <li>Software testing types</li>
-        <ul>
+        <ul style="list-style-type:circle;">
           <li>Black Box</li>
           <li>Grey Box</li>
           <li>White Box</li>
@@ -85,7 +85,7 @@ permalink: /syllabus/
       <li>Verification and Validation</li>     
   </ul>
 <li>Reliability, Security and Real-time Software Engineering(If we had enough time!)</li>
-  <ul>
+  <ul style="list-style-type:disc;">
     <li>Availability and reliability</li>
     <li>Reliability requirements</li>
     <li>Fault-tolerant architectures</li>
@@ -108,7 +108,7 @@ permalink: /syllabus/
 <h1>Things that are expected from you!</h1>
 <ol type="1">
   <li>Continuing your SE 1 Project</li>
-  <ul>
+  <ul style="list-style-type:disc;">
     <li>Design</li>
     <li>Patterns</li>
     <li>Implementation ( every sprint a working feature!)</li>
