@@ -6,14 +6,19 @@ permalink: /assignments/
 <p>
 <big>
 <h1>A complete commercial level project done during the term with the following conditions:</h1>
-<h2>Scrum should be used as the project management framework</h2>
-<h2>Teams should consist of at least 4 people</h2>
-<h2>Deliverables should be provided in each sprint</h2>
-<h2>A special focus on the followings:</h2>
-<h3>*Architecture</h3>
-<h3>*Design decisions</h3>
-<h3>*Project management reports</h3>
-<h3>*Learning new things!</h3>
+<ul>
+  <li>Scrum should be used as the project management framework</li>
+  <li>Teams should consist of at least 4 people</li>
+  <li>Deliverables should be provided in each sprint</li>
+  <li>A special focus on the followings:
+    <ul>
+      <li>Architecture</li>
+      <li>Design decisions</li>
+      <li>Project management reports</li>
+      <li>Learning new things!</li>
+    </ul>
+  </li>
+</ul>
 </big>
 </p>
 
