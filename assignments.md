@@ -5,7 +5,7 @@ permalink: /assignments/
 ---
 
 <h1>A complete commercial level project done during the term with the following conditions:</h1>
-<ul style="list-style-type:disk;">
+<ul style="list-style-type:disc;">
   <li>Scrum should be used as the project management framework</li>
   <li>Teams should consist of at least 4 people</li>
   <li>Deliverables should be provided in each sprint</li>
